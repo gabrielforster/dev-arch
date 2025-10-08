@@ -1,0 +1,3 @@
+#!/usr/bin/bash
+
+yes | sudo pacman -Sy tmux

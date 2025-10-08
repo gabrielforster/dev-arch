@@ -1,0 +1,4 @@
+#!/usr/bin/bash
+
+sudo pacman -Sy git curl vim fzf ripgrep git-delta pavucontrol xclip jq tldr flameshot python3-pip arandr lxappearance feh rofi
+
